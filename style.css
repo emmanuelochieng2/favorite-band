@@ -1,0 +1,42 @@
+h1{
+    color: darkblue; 
+    font-weight: bold; 
+    padding-left: 540px;
+}
+
+h2{
+    font-style: oblique; 
+    padding-left: 250px;
+}
+
+p{
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif; 
+    background-color: darkcyan;
+}
+
+.image{
+         height: max-content; 
+         float: inline-end; 
+         padding-left: 300px;
+}
+
+.image2{
+         padding-left: 250px;
+}
+
+.image3{
+         padding-left: 120px;
+}
+
+.image4{
+         padding-left: 300px;
+}
+
+.image5{
+        padding-left: 140px;
+}
+
+body{
+        background-color: red;
+}
